@@ -36,3 +36,5 @@ Breaking Bad → Suggested Shows
 Genre Prediction Example:
 Input: "A group of teenagers face supernatural forces in a small town."
 Predicted Genres: Drama, Fantasy, Horror
+
+![Example Output](./assets/image.png)
